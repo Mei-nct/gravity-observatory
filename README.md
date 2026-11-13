@@ -19,7 +19,7 @@
 - 内容管理：结构化Markdown设定文档，可持续迭代维护设定库
 - 创作思路：先搭建稳定世界观骨架，再向外延伸故事、器物、视觉内容，保证所有内容统一在同一世界观下
 ## 🎮 在线体验
-👉 [点击进入 GRAVITY引力计划 交互式叙事作品](https://Mei-nct.github.io/gravity-observatory/GRAVITY.html)
+👉 [点击进入 GRAVITY引力计划 交互式叙事作品](https://mei-nct.github.io/gravity-observatory/)
 ⚠️ 当前为测试预览版本，并非最终定稿，剧情、设定、交互后续会迭代更新。本地游玩可下载仓库内 index.html，双击浏览器打开。
 
 ## 补充说明
